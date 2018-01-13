@@ -11,9 +11,9 @@ Pre-installation requirments
 
 * Platform independent.
 
-* angular-cli (version >= 1.6.0)
+* @angular/cli (version >= 1.6.0)
 
-  `$ npm i -g angular-cli`
+  `$ npm i -g @angular/cli`
 
 * webpack-dev-server (version >= 2.9.7)
 
